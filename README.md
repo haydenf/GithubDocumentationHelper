@@ -10,6 +10,11 @@ Documentation makes it easier for everyone to understand several things about yo
 * Who is working on your project
 * what features, files, issues, etc, need work 
 
+## How does this apply to my assignments?
+All assignments in the webdev bootcamps at Coder Academy specify deliverables, marking criteria, and sometimes even a design brief or design specifications. These sections all outline exactly what you need for your assignment - there are no assignments without documentation, so you must always have something written as per what is covered on the assignment page you see on Canvas.
+
+So, if you can write good documentation, your assignments will be better. Some assignments care about what your README.md file contains, whether the images work, whether the URls work, whether you've recorded some user testing, whether you've got proof you actually used Trello or Slack, etc etc. Documentation is the evidence you need that proves you know what you're doing.
+
 ## How does Github documentation work? 
 Github has different types of documentation in different parts of your repository. Not every Github repository needs every type of documentation, but here's a few of the common types:
 
@@ -32,7 +37,16 @@ You can automate the columns here - click on the three-dot menu on a column and 
 
 
 ### Including external documentation
+If you're including things like Trello boards, wireframe sketches, or other documentation, it's usually a good practice to embed some screenshots into your documentation & provide a URL to the original resource if possible. 
 
+Embedded media can be shown in 2 common ways: as local files, or as URLs.
+Local files must be organized & referenced just like how you'd reference local files in your code on the computer. 
+
+```
+![GitHub Logo](website.com/logo.png) -- for an image stored on a web server
+![GitHub Logo](/images/logo.png) -- for an image stored within the repository
+Format: ![Alt Text](url)
+```
 
 ## Awesome resources for you
 ### Markdown Cheatsheet
