@@ -1,4 +1,4 @@
-# Documentation Helper
+# Github Documentation Helper
 This repo is made as a learning resource that can show you how to understand &amp; write better documentation for your projects.
 
 
