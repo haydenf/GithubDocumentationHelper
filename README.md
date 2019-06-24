@@ -26,6 +26,9 @@ So this means you'd end up with two repos:
 * Project.wiki.git
 
 ### Github repo projects
+Have you ever used Trello? Or kanban boards in general? It's that, but built into your repository. 
+
+You can automate the columns here - click on the three-dot menu on a column and select "Manage Automation". You can set it up so that new issues automatically create tasks in the Project tab, and do things like automatically move tasks to a "Done" column when the pull request is merged or issue is closed. It's basically like a Github integration for Trello, but contained entirely within Github! 
 
 
 ### Including external documentation
