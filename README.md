@@ -37,6 +37,12 @@ This contains plenty of examples of great readmes, as well as lists of helpful t
 
 This website teaches you about markdown syntax, and has a live markdown editor on the website. You can build your whole readme on this page and then copy it to a markdown file in your project if your own machine doesn't have a markdown editor!
 
+
+### "Best README"
+[https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+A nice readme template for repos that makes your work look more professional. Uses badges/shields/icons and showcases different styles of syntax nicely.
+
 ## Markdown File Editing
 ### Visual Studio Code Extensions
 #### "Markdown All in One"
