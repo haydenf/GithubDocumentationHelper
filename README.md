@@ -13,7 +13,7 @@ Documentation makes it easier for everyone to understand several things about yo
 ## How does this apply to my assignments?
 All assignments in the webdev bootcamps at Coder Academy specify deliverables, marking criteria, and sometimes even a design brief or design specifications. These sections all outline exactly what you need for your assignment - there are no assignments without documentation, so you must always have something written as per what is covered on the assignment page you see on Canvas.
 
-So, if you can write good documentation, your assignments will be better. Some assignments care about what your README.md file contains, whether the images work, whether the URls work, whether you've recorded some user testing, whether you've got proof you actually used Trello or Slack, etc etc. Documentation is the evidence you need that proves you know what you're doing.
+So, if you can write good documentation, your assignments will be better. Some assignments care about what your README.md file contains, whether the images work, whether the URLs work, whether you've recorded some user testing, whether you've got proof you actually used Trello or Slack, etc etc. Documentation is the evidence you need that proves you know what you're doing.
 
 ## How does Github documentation work? 
 Github has different types of documentation in different parts of your repository. Not every Github repository needs every type of documentation, but here's a few of the common types:
