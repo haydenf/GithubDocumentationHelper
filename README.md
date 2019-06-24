@@ -18,7 +18,12 @@ The most-common type of documentation in a Github repository. Markdown files are
 
 
 ### Github repo wikis
+The "wiki" section of a repository is a great place for you to store detailed information about your repository - it's basically your own, project-specific Wikipedia. This is especially useful in larger apps, where you can cover things like how to use your app's API or why certain features are structured in a certain way.
 
+With a wiki, it's treated as a separate repository to the rest of your codebase. You can clone your wiki down to your computer and edit it easily - but you must create the first page of the wiki on the Github website page of your repository before you can clone it or edit it.
+So this means you'd end up with two repos:
+* Project.git
+* Project.wiki.git
 
 ### Github repo projects
 
@@ -27,6 +32,21 @@ The most-common type of documentation in a Github repository. Markdown files are
 
 
 ## Awesome resources for you
+### Markdown Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+A good introductory reference for general markdown - because yes, there is both generic markdown & Github-specific markdown. Start here for a smooth experience.
+
+### Github Official Markdown Reference
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
+Just in case the above link doesn't cover what you need, check out this one too. 
+
+### Github Markdown Guide
+https://guides.github.com/features/mastering-markdown/
+
+A slightly more-advanced version of the cheatsheet that covers Github-specific features.
+
 ### "Awesome Readme"
 [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
 
