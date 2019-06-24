@@ -100,7 +100,5 @@ Markdown Writer provides plenty of syntax helpers & generators for valid markdow
 ### Typora
 [https://typora.io/](https://typora.io/)
 
-A really nice & aesthetically-pleasing markdown editor that lets you export your work into a variety of file formats, such as HTML & PDF. Good for writing technical documentation or technical/IT textbooks.
+A really nice & aesthetically-pleasing markdown editor (& dedicated software, not a plugin!) that lets you export your work into a variety of file formats, such as HTML & PDF. Good for writing technical documentation or technical/IT textbooks.
 
-
-### 
